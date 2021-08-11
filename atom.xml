@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://kejiahua.github.io/</id>
-    <title>Gridea</title>
-    <updated>2021-08-11T08:31:48.772Z</updated>
+    <title>重要GE</title>
+    <updated>2021-08-11T08:51:27.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://kejiahua.github.io/"/>
     <link rel="self" href="https://https://kejiahua.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>重要GE的人真帅</subtitle>
     <logo>https://https://kejiahua.github.io/images/avatar.png</logo>
     <icon>https://https://kejiahua.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 重要GE</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://kejiahua.github.io/post/hello-gridea/</id>
