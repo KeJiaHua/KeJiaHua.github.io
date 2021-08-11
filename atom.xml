@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://kejiahua.github.io/</id>
     <title>重要GE</title>
-    <updated>2021-08-11T09:08:36.345Z</updated>
+    <updated>2021-08-11T09:51:35.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://kejiahua.github.io/"/>
     <link rel="self" href="https://https://kejiahua.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://https://kejiahua.github.io/images/avatar.png</logo>
     <icon>https://https://kejiahua.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 重要GE</rights>
+    <entry>
+        <title type="html"><![CDATA[介绍]]></title>
+        <id>https://https://kejiahua.github.io/post/jie-shao/</id>
+        <link href="https://https://kejiahua.github.io/post/jie-shao/">
+        </link>
+        <updated>2021-08-11T09:51:05.000Z</updated>
+        <content type="html"><![CDATA[<p>成功人士 巅峰住宅 坐拥邻水美景</p>
+<p>队长：清幽</p>
+<p>副队：星辰</p>
+<p>队员：zcc</p>
+<p>摸鱼：我</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://kejiahua.github.io/post/hello-gridea/</id>
